@@ -16,9 +16,9 @@
 - [x] Parte 04
 - [x] Parte 05
 - [x] Parte 06
-- [ ] Parte 07
-- [ ] Parte 08
-- [ ] Parte 09
+- [x] Parte 07
+- [x] Parte 08
+- [x] Parte 09
 
 ### :computer: Tecnologias
 
