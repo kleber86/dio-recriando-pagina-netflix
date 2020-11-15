@@ -11,11 +11,11 @@
 
 ### :memo: Aulas
 - [x] Parte 01
-- [ ] Parte 02 
-- [ ] Parte 03
-- [ ] Parte 04
-- [ ] Parte 05
-- [ ] Parte 06
+- [x] Parte 02 
+- [x] Parte 03
+- [x] Parte 04
+- [x] Parte 05
+- [x] Parte 06
 - [ ] Parte 07
 - [ ] Parte 08
 - [ ] Parte 09
@@ -25,5 +25,6 @@
 - HTML
 - CSS
 - Flexbox
+- Font Awesome
 
 ### :unlock: O que foi adicionado como extra
