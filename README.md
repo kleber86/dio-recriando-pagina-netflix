@@ -6,7 +6,11 @@
 <p align="center">O desafio deste módulo é a recriação da pagina da Netflix.</p>
 
 <div align="center">
-    <img src="">
+    <img src="https://raw.githubusercontent.com/kleber86/dio-recriando-pagina-netflix/main/img/site.png">
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/kleber86/dio-recriando-pagina-netflix/main/img/site-mobile.png">
 </div>
 
 ### :memo: Aulas
