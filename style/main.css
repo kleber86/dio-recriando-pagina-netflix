@@ -81,3 +81,11 @@ header nav a:hover{
 .filme-principal .container{
     width: 70%;
 }
+.carrousel-filmes{
+    margin: 32px 10px;
+}
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
