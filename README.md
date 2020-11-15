@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="300">
     <h1>Recriando a página da Netflix</h1>
 </div>
 
