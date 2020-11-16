@@ -33,3 +33,12 @@
 - Owl Carousel 2 - https://owlcarousel2.github.io/OwlCarousel2/
 
 ### :unlock: O que foi adicionado como extra
+
+ - Adicionado uma segunda categoria de carrossel.
+ - Adicionando os nomes das categorias.
+ - Transition aplicado somente ao background.
+    ~~~~css
+        transition: .4s ease-in background-color;
+    ~~~
+ - Usando variavés no css.
+ - Adicionado o rodapé.
